@@ -1,0 +1,13 @@
+// O x de dentro do bloco esconde o x de fora.
+inteiro x;
+inteiro y;
+x = 1;
+y = 10;
+
+{
+    inteiro x;
+    x = y + 1;
+    escreva(x);
+}
+
+escreva(x);

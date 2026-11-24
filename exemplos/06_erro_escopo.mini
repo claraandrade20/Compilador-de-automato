@@ -1,0 +1,8 @@
+// y nasce dentro do bloco e some quando ele fecha.
+inteiro x;
+{
+    inteiro y;
+    y = x + 1;
+    escreva(y);
+}
+escreva(y);

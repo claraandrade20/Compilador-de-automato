@@ -1,0 +1,13 @@
+// Erros de propósito: nome repetido, tipo, variável nova e condição.
+inteiro x;
+inteiro x;
+logico b;
+
+x = 1;
+b = x;
+z = 3;
+x = verdadeiro;
+
+se (x) {
+    escreva(x);
+}

@@ -1,0 +1,4 @@
+// O caractere $ não faz parte da linguagem.
+inteiro total;
+total = 10$;
+escreva(total);

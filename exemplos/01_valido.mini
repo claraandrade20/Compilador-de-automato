@@ -1,0 +1,14 @@
+// Programa válido: variáveis, conta, se e bloco.
+inteiro x;
+logico ok;
+
+x = 10;
+ok = x > 0 && x < 100;
+
+se (ok) {
+    inteiro dobro;
+    dobro = x * 2;
+    escreva(dobro);
+}
+
+escreva(x);

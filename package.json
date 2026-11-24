@@ -1,0 +1,12 @@
+{
+  "name": "compilador-frontend",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node analisador.js",
+    "test": "node testar.js"
+  },
+  "dependencies": {
+    "peggy": "^4.2.0"
+  }
+}
